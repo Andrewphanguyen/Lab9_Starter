@@ -1,3 +1,3 @@
 # Lab 9 - Starter
 
-[my code](trackjs.JPG)
+(trackjs.JPG)
