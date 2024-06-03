@@ -1,3 +1,3 @@
 # Lab 9 - Starter
 
-(trackjs.JPG)
+![image](trackjs.JPG)
